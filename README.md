@@ -1,7 +1,7 @@
 ### Set of CU Boulder MSDS courses in progress
 
 | Course | Progress | Length (hrs) | Grade | Completion |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | 9. [5511 Introduction to Deep Learning](https://www.coursera.org/learn/introduction-to-deep-learning-boulder?specialization=machine-learnin-theory-and-hands-on-practice-with-pythong-cu) | Module 3/5 | 60 | NA | 
 | 8. [5510 Unsupervised Algorithms in Machine Learning](https://www.coursera.org/learn/unsupervised-algorithms-in-machine-learning?specialization=machine-learnin-theory-and-hands-on-practice-with-pythong-cu) | Module 4/5 | 16 | NA |
 | 7. [5509 Introduction to Machine Learning: Supervised Learning](https://www.coursera.org/learn/introduction-to-machine-learning-supervised-learning) | Module 7/7 | 39 | NA |
