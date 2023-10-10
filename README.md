@@ -1,4 +1,4 @@
-### Set of CU Boulder MSDS courses in progress
+# Set of CU Boulder MSDS courses in progress
 
 | Course | Length (hrs) | Progress (%) | Grade (%) | Completion |
 | --- | --- | --- | --- | --- |
