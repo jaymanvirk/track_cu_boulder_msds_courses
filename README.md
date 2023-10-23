@@ -2,7 +2,7 @@
 
 ## Current GPA: 4.0
 
-| Course | Length (hrs) | Progress (%) | Grade (%) | Completion |
+| Course | Length (hrs) | Progress (%) | Grade (%) | Year Completed |
 | --- | --- | --- | --- | --- |
 | 12. [Data Mining Project](https://www.coursera.org/learn/data-mining-theory-practice-project?specialization=data-mining-foundations-practice) | 19 | 0 |  |  |
 | 11. [Data Mining Methods](https://www.coursera.org/learn/data-mining-methods?specialization=data-mining-foundations-practice) | 24 | 0 |  |  |
