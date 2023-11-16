@@ -5,7 +5,7 @@
 | Course | Progress (%) | Grade (%) | Year |
 | --- | --- | --- | --- |
 | 12. [Data Mining Project](https://www.coursera.org/learn/data-mining-theory-practice-project?specialization=data-mining-foundations-practice) | 50 |  |  |
-| 11. [Data Mining Methods](https://www.coursera.org/learn/data-mining-methods?specialization=data-mining-foundations-practice) | 100 | 98.75 |  |
+| 11. [Data Mining Methods](https://www.coursera.org/learn/data-mining-methods?specialization=data-mining-foundations-practice) | 100 | 99 |  |
 | 10. [Data Mining Pipeline](https://www.coursera.org/learn/data-mining-pipeline?specialization=data-mining-foundations-practice) | 100 | 100 | 2023 |
 | 9. [Introduction to Deep Learning](https://www.coursera.org/learn/introduction-to-deep-learning-boulder?specialization=machine-learnin-theory-and-hands-on-practice-with-pythong-cu) | 100 | 97.5 | 2023 |
 | 8. [Unsupervised Algorithms in Machine Learning](https://www.coursera.org/learn/unsupervised-algorithms-in-machine-learning?specialization=machine-learnin-theory-and-hands-on-practice-with-pythong-cu) | 100 | 99.37 | 2023 |
