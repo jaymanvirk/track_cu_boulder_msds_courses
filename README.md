@@ -4,7 +4,7 @@
 
 | Course | Progress (%) | Grade (%) | Year |
 | --- | --- | --- | --- |
-| 15. [Generalized Linear Models and Nonparametric Regression](https://www.coursera.org/learn/generalized-linear-models-and-nonparametric-regression?specialization=statistical-modeling-for-data-science-applications) | 10 |  |  |
+| 15. [Generalized Linear Models and Nonparametric Regression](https://www.coursera.org/learn/generalized-linear-models-and-nonparametric-regression?specialization=statistical-modeling-for-data-science-applications) | 15 |  |  |
 | 14. [ANOVA and Experimental Design](https://www.coursera.org/learn/anova-and-experimental-design?specialization=statistical-modeling-for-data-science-applications) | 15 |  |  |
 | 13. [Modern Regression Analysis in R](https://www.coursera.org/learn/modern-regression-analysis-in-r?specialization=statistical-modeling-for-data-science-applications) | 15 |  |  |
 | 12. [Data Mining Project](https://www.coursera.org/learn/data-mining-theory-practice-project?specialization=data-mining-foundations-practice) | 100 | 100 | 2023 |
