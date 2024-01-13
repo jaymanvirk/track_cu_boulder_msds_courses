@@ -9,7 +9,7 @@
 | 17. [Modern Regression Analysis in R](https://www.coursera.org/learn/modern-regression-analysis-in-r?specialization=statistical-modeling-for-data-science-applications) | 15 |  |  |
 | 16. [Fundamentals of Data Visualization](https://www.coursera.org/learn/fundamentals-of-data-visualization?specialization=vital-skills-for-data-science) |  |  |  |
 | 15. [Cybersecurity for Data Science](https://www.coursera.org/learn/cybersecurity-for-data-science?specialization=vital-skills-for-data-science) |  |  |  |
-| 14. [Ethical Issues in Data Science](https://www.coursera.org/learn/ethical-issues-data-science?specialization=vital-skills-for-data-science) | 10 |  |  |
+| 14. [Ethical Issues in Data Science](https://www.coursera.org/learn/ethical-issues-data-science?specialization=vital-skills-for-data-science) | 15 |  |  |
 | 13. [Data Science as a Field](https://www.coursera.org/learn/data-science-as-a-field?specialization=vital-skills-for-data-science) | 85 |  |  |
 | 12. [Data Mining Project](https://www.coursera.org/learn/data-mining-theory-practice-project?specialization=data-mining-foundations-practice) | 100 | 100 | 2023 |
 | 11. [Data Mining Methods](https://www.coursera.org/learn/data-mining-methods?specialization=data-mining-foundations-practice) | 100 | 99 | 2023 |
