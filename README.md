@@ -19,7 +19,7 @@
 | 18 | [The Structured Query Language (SQL)](https://www.coursera.org/learn/the-structured-query-language-sql) |  |  |  |  |
 | 17 | [Relational Database Design](https://www.coursera.org/learn/relational-database-design) |  |  |  |  |
 | 16 | [Fundamentals of Data Visualization](https://www.coursera.org/learn/fundamentals-of-data-visualization?specialization=vital-skills-for-data-science) |  |  |  |  |
-| 15 | [Cybersecurity for Data Science](https://www.coursera.org/learn/cybersecurity-for-data-science?specialization=vital-skills-for-data-science) | 40 |  |  |  |
+| 15 | [Cybersecurity for Data Science](https://www.coursera.org/learn/cybersecurity-for-data-science?specialization=vital-skills-for-data-science) | 45 |  |  |  |
 | 14 | [Ethical Issues in Data Science](https://www.coursera.org/learn/ethical-issues-data-science?specialization=vital-skills-for-data-science) | 100 | 100 |  | 2025 |
 | 13 | [Data Science as a Field](https://www.coursera.org/learn/data-science-as-a-field?specialization=vital-skills-for-data-science) | 100 | 97.05 |  | 2025 |
 | 12 | [Data Mining Project](https://www.coursera.org/learn/data-mining-theory-practice-project?specialization=data-mining-foundations-practice) | 100 | 100 | [Link](https://coursera.org/share/23dcd7083ab5ff50d73c30798437993e) | 2023 |
