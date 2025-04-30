@@ -17,7 +17,7 @@
 | 20 | [ANOVA and Experimental Design](https://www.coursera.org/learn/anova-and-experimental-design?specialization=statistical-modeling-for-data-science-applications) |  |  |  |  |
 | 19 | [Modern Regression Analysis in R](https://www.coursera.org/learn/modern-regression-analysis-in-r?specialization=statistical-modeling-for-data-science-applications) |  |  |  |  |
 | 18 | [The Structured Query Language (SQL)](https://www.coursera.org/learn/the-structured-query-language-sql) |  |  |  |  |
-| 17 | [Relational Database Design](https://www.coursera.org/learn/relational-database-design) | 65 |  |  |  |
+| 17 | [Relational Database Design](https://www.coursera.org/learn/relational-database-design) | 70 |  |  |  |
 | 16 | [Fundamentals of Data Visualization](https://www.coursera.org/learn/fundamentals-of-data-visualization?specialization=vital-skills-for-data-science) | 100 | 100 |  | 2025 |
 | 15 | [Cybersecurity for Data Science](https://www.coursera.org/learn/cybersecurity-for-data-science?specialization=vital-skills-for-data-science) | 100 | 100 |  | 2025 |
 | 14 | [Ethical Issues in Data Science](https://www.coursera.org/learn/ethical-issues-data-science?specialization=vital-skills-for-data-science) | 100 | 100 | [Link](https://coursera.org/share/e2ba4926b0e5a7fbc17645de0e8982d1) | 2025 |
