@@ -16,7 +16,7 @@
 | 21 | [Generalized Linear Models and Nonparametric Regression](https://www.coursera.org/learn/generalized-linear-models-and-nonparametric-regression?specialization=statistical-modeling-for-data-science-applications) |  |  |  |  |
 | 20 | [ANOVA and Experimental Design](https://www.coursera.org/learn/anova-and-experimental-design?specialization=statistical-modeling-for-data-science-applications) |  |  |  |  |
 | 19 | [Modern Regression Analysis in R](https://www.coursera.org/learn/modern-regression-analysis-in-r?specialization=statistical-modeling-for-data-science-applications) |  |  |  |  |
-| 18 | [The Structured Query Language (SQL)](https://www.coursera.org/learn/the-structured-query-language-sql) | 50 |  |  |  |
+| 18 | [The Structured Query Language (SQL)](https://www.coursera.org/learn/the-structured-query-language-sql) | 55 |  |  |  |
 | 17 | [Relational Database Design](https://www.coursera.org/learn/relational-database-design) | 80 |  |  |  |
 | 16 | [Fundamentals of Data Visualization](https://www.coursera.org/learn/fundamentals-of-data-visualization?specialization=vital-skills-for-data-science) | 100 | 100 | [Link](https://coursera.org/share/d147a3e5f724b4e3e09ebdc33cce55af) | 2025 |
 | 15 | [Cybersecurity for Data Science](https://www.coursera.org/learn/cybersecurity-for-data-science?specialization=vital-skills-for-data-science) | 100 | 100 | [Link](https://coursera.org/share/efb6fccecd68763a2e3228e1714f2b11) | 2025 |
