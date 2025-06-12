@@ -15,7 +15,7 @@
 | 22 | [Fundamentals of Software Architecture for Big Data](https://www.coursera.org/learn/software-architecture-for-big-data-fundamentals) |  |  |  |  |
 | 21 | [Generalized Linear Models and Nonparametric Regression](https://www.coursera.org/learn/generalized-linear-models-and-nonparametric-regression?specialization=statistical-modeling-for-data-science-applications) |  |  |  |  |
 | 20 | [ANOVA and Experimental Design](https://www.coursera.org/learn/anova-and-experimental-design?specialization=statistical-modeling-for-data-science-applications) |  |  |  |  |
-| 19 | [Modern Regression Analysis in R](https://www.coursera.org/learn/modern-regression-analysis-in-r?specialization=statistical-modeling-for-data-science-applications) | 30 |  |  |  |
+| 19 | [Modern Regression Analysis in R](https://www.coursera.org/learn/modern-regression-analysis-in-r?specialization=statistical-modeling-for-data-science-applications) | 35 |  |  |  |
 | 18 | [The Structured Query Language (SQL)](https://www.coursera.org/learn/the-structured-query-language-sql) | 80 |  |  |  |
 | 17 | [Relational Database Design](https://www.coursera.org/learn/relational-database-design) | 80 |  |  |  |
 | 16 | [Fundamentals of Data Visualization](https://www.coursera.org/learn/fundamentals-of-data-visualization?specialization=vital-skills-for-data-science) | 100 | 100 | [Link](https://coursera.org/share/d147a3e5f724b4e3e09ebdc33cce55af) | 2025 |
