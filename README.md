@@ -15,9 +15,9 @@
 | 22 | [Fundamentals of Software Architecture for Big Data](https://www.coursera.org/learn/software-architecture-for-big-data-fundamentals) |  |  |  |  |
 | 21 | [Generalized Linear Models and Nonparametric Regression](https://www.coursera.org/learn/generalized-linear-models-and-nonparametric-regression?specialization=statistical-modeling-for-data-science-applications) |  |  |  |  |
 | 20 | [ANOVA and Experimental Design](https://www.coursera.org/learn/anova-and-experimental-design?specialization=statistical-modeling-for-data-science-applications) |  |  |  |  |
-| 19 | [Modern Regression Analysis in R](https://www.coursera.org/learn/modern-regression-analysis-in-r?specialization=statistical-modeling-for-data-science-applications) | 50 |  |  |  |
-| 18 | [The Structured Query Language (SQL)](https://www.coursera.org/learn/the-structured-query-language-sql) | 100 |  |  |  |
-| 17 | [Relational Database Design](https://www.coursera.org/learn/relational-database-design) | 100 |  |  |  |
+| 19 | [Modern Regression Analysis in R](https://www.coursera.org/learn/modern-regression-analysis-in-r?specialization=statistical-modeling-for-data-science-applications) | 70 |  |  |  |
+| 18 | [The Structured Query Language (SQL)](https://www.coursera.org/learn/the-structured-query-language-sql) | 100 | 100 | [Link](https://coursera.org/share/9c2ee287f07350d5edb383b120eba156) | 2025 |
+| 17 | [Relational Database Design](https://www.coursera.org/learn/relational-database-design) | 100 | 100 | [Link](https://coursera.org/share/2b41a639e8480d731f85a6707136dc63) | 2025 |
 | 16 | [Fundamentals of Data Visualization](https://www.coursera.org/learn/fundamentals-of-data-visualization?specialization=vital-skills-for-data-science) | 100 | 100 | [Link](https://coursera.org/share/d147a3e5f724b4e3e09ebdc33cce55af) | 2025 |
 | 15 | [Cybersecurity for Data Science](https://www.coursera.org/learn/cybersecurity-for-data-science?specialization=vital-skills-for-data-science) | 100 | 100 | [Link](https://coursera.org/share/efb6fccecd68763a2e3228e1714f2b11) | 2025 |
 | 14 | [Ethical Issues in Data Science](https://www.coursera.org/learn/ethical-issues-data-science?specialization=vital-skills-for-data-science) | 100 | 100 | [Link](https://coursera.org/share/e2ba4926b0e5a7fbc17645de0e8982d1) | 2025 |
