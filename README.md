@@ -14,7 +14,7 @@
 | 23 | [Software Architecture Patterns for Big Data](https://www.coursera.org/learn/software-architecture-patterns-for-big-data) |  |  |  |  |
 | 22 | [Fundamentals of Software Architecture for Big Data](https://www.coursera.org/learn/software-architecture-for-big-data-fundamentals) |  |  |  |  |
 | 21 | [Generalized Linear Models and Nonparametric Regression](https://www.coursera.org/learn/generalized-linear-models-and-nonparametric-regression?specialization=statistical-modeling-for-data-science-applications) |  |  |  |  |
-| 20 | [ANOVA and Experimental Design](https://www.coursera.org/learn/anova-and-experimental-design?specialization=statistical-modeling-for-data-science-applications) | 60 |  |  | 2025 |
+| 20 | [ANOVA and Experimental Design](https://www.coursera.org/learn/anova-and-experimental-design?specialization=statistical-modeling-for-data-science-applications) | 80 |  |  | 2025 |
 | 19 | [Modern Regression Analysis in R](https://www.coursera.org/learn/modern-regression-analysis-in-r?specialization=statistical-modeling-for-data-science-applications) | 80 |  |  | 2025 |
 | 18 | [The Structured Query Language (SQL)](https://www.coursera.org/learn/the-structured-query-language-sql) | 100 | 100 | [Link](https://coursera.org/share/9c2ee287f07350d5edb383b120eba156) | 2025 |
 | 17 | [Relational Database Design](https://www.coursera.org/learn/relational-database-design) | 100 | 100 | [Link](https://coursera.org/share/2b41a639e8480d731f85a6707136dc63) | 2025 |
